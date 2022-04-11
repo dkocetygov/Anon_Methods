@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anon_Methods", "Anon_Methods\Anon_Methods.csproj", "{04183307-F217-4638-8B43-F0B18E0B62C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anon_Method1", "Anon_Method1\Anon_Method1.csproj", "{BE13A10B-91FB-42AF-928D-26450F7BAEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04183307-F217-4638-8B43-F0B18E0B62C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04183307-F217-4638-8B43-F0B18E0B62C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04183307-F217-4638-8B43-F0B18E0B62C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04183307-F217-4638-8B43-F0B18E0B62C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE13A10B-91FB-42AF-928D-26450F7BAEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE13A10B-91FB-42AF-928D-26450F7BAEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE13A10B-91FB-42AF-928D-26450F7BAEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE13A10B-91FB-42AF-928D-26450F7BAEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61073785-16F6-4F17-9144-5106D685A58B}
+	EndGlobalSection
+EndGlobal
